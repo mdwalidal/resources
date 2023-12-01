@@ -1,1 +1,2 @@
+off_line_map_tiles.json filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
